@@ -2,5 +2,5 @@ numpy
 matplotlib
 seaborn
 pandas
-pillow
-tesseract
+Pillow
+pytesseract
