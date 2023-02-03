@@ -23,10 +23,10 @@ For this part we are going to use [Python](https://www.python.org/) and [Jupyter
 ### Working with R
 You can find all the material that you will need for this class in [this Folder](https://github.com/DCS-training/OCR/tree/main/WorkingWithR) (Please note that if you want to download the material on your laptop you will need to download the whole repository rather than single folders). 
 
-To attend the class you do not need to download anything because Binder is set to access both the data and the code authomatically.
-Just click on the banner below.
+To attend the class you do not need to download anything because the whole project is set up in RStudio Online.
+Just click on the banner below and log in via a google account
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DCS-training/OCR/HEAD)
+[![RstudioOnline](https://github.com/DCS-training/OCR/blob/main/PositLogo.png)](https://posit.cloud/content/5337260)
 
 To attend the class you do not need to download anything because Binder is set to access both the data and the code authomatically.
 Just click on the banner below.
