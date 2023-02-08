@@ -26,7 +26,13 @@ You can find all the material that you will need for this class in [this Folder]
 To attend the class you do not need to download anything because the whole project is set up in RStudio Online.
 Just click on the banner below and log in via a google account
 
-[![RstudioOnline](https://github.com/DCS-training/OCR/blob/main/PositLogo.png =250x250)](https://posit.cloud/content/5337260)
+
+<div style="width: 60%; height: 60%">
+  
+ [![RstudioOnline](https://github.com/DCS-training/OCR/blob/main/PositLogo.png)](https://posit.cloud/content/5337260)
+  
+</div>
+
 
 To attend the class you do not need to download anything because Binder is set to access both the data and the code authomatically.
 Just click on the banner below.
