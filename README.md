@@ -29,7 +29,7 @@ Just click on the banner below and log in via a google account
 
 <div style="width: 60%; height: 60%">
   
- [![GoogleColab](https://github.com/DCS-training/OCR/blob/main/PositLogo.png)](https://colab.research.google.com/drive/1IggowWB2eESAETCWUNVshlJIjQ5FXjiU?usp=sharing)
+ [![RStudioCloud](https://github.com/DCS-training/OCR/blob/main/PositLogo.png)](https://posit.cloud/content/5337260)
   
 </div>
 
@@ -42,6 +42,11 @@ To attend the class you do not need to download anything because Binder is set t
 Just click on the banner below.
 
 
+<div style="width: 60%; height: 60%">
+  
+ [![GoogleColab](https://github.com/DCS-training/OCR/blob/main/PositLogo.png)](https://colab.research.google.com/drive/1IggowWB2eESAETCWUNVshlJIjQ5FXjiU?usp=sharing)
+  
+</div>
 
 ## License and Authors
 All material here collected is free to use but it is covered by a License: CC BY-NC 4.0 license
