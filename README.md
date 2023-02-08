@@ -48,6 +48,8 @@ Just click on the banner below and log in via a google account
   
 
 ## License and Authors
-All material here collected is free to use but it is covered by a License: CC BY-NC 4.0 license
+All material here collected is free to use but it is covered by a License
+
+[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 The authors of this repository are Lucia Michielin and Jessica Witte
