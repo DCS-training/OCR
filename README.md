@@ -29,7 +29,7 @@ Just click on the banner below and log in via a google account
 
 <div style="width: 60%; height: 60%">
   
- [![RStudioCloud](https://github.com/DCS-training/OCR/blob/main/PositLogo.png)](https://posit.cloud/content/5337260)
+ [![RStudioCloud](https://github.com/DCS-training/OCR/blob/main/CollabLogo.svg)](https://posit.cloud/content/5337260)
   
 </div>
 
