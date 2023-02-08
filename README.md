@@ -42,7 +42,7 @@ To attend the class you do not need to download anything because Binder is set t
 Just click on the banner below.
 
 
-<div style= "width: 5%; height: 5%">
+<div style= "width: 1%; height: 1%">
   
  [![GoogleColab](https://github.com/DCS-training/OCR/blob/main/CollabLogo.png)](https://colab.research.google.com/drive/1IggowWB2eESAETCWUNVshlJIjQ5FXjiU?usp=sharing)
   
