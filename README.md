@@ -29,20 +29,11 @@ Just click on the banner below and log in via a google account
 
 <div style="width: 60%; height: 60%">
   
- [![RstudioOnline](https://github.com/DCS-training/OCR/blob/main/PositLogo.png)](https://posit.cloud/content/5337260)
+ [![GoogleColab](https://github.com/DCS-training/OCR/blob/main/PositLogo.png)](https://colab.research.google.com/drive/1IggowWB2eESAETCWUNVshlJIjQ5FXjiU?usp=sharing)
   
 </div>
 
 
-To attend the class you do not need to download anything because Binder is set to access both the data and the code authomatically.
-Just click on the banner below.
-
-**NB** Because R Studio is not the default environment in Binder once your environment has been created you will need to substitute the /lab part of the web address with /rstudio.
-
-If you want to download a copy of the notebook we are going to work on you need to follow these steps. 
-- Go back to the Jupyter interface by subsituting /rstudio with /lab
-- Navigate to the file you want to download
-- Right click of the mouse > download
 
 ### Working with Python
 You can find all the material that you will need for this class in [this Folder](https://github.com/DCS-training/OCR/tree/main/WorkingWithPython) (Please note that if you want to download the material on your laptop you will need to download the whole repository rather than single folders). 
@@ -50,11 +41,6 @@ You can find all the material that you will need for this class in [this Folder]
 To attend the class you do not need to download anything because Binder is set to access both the data and the code authomatically.
 Just click on the banner below.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DCS-training/OCR/HEAD)
-
-If you want to download a copy of the notebook we are going to work on you need to follow these steps. 
-- Navigate to the file you want to download
-- Right click of the mouse > download
 
 
 ## License and Authors
