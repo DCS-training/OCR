@@ -44,7 +44,7 @@ Just click on the banner below.
 
 <div style="width: 60%; height: 60%">
   
- [![GoogleColab](https://github.com/DCS-training/OCR/blob/main/PositLogo.png)](https://colab.research.google.com/drive/1IggowWB2eESAETCWUNVshlJIjQ5FXjiU?usp=sharing)
+ [![GoogleColab](https://github.com/DCS-training/OCR/blob/main/CollabLogo.png)](https://colab.research.google.com/drive/1IggowWB2eESAETCWUNVshlJIjQ5FXjiU?usp=sharing)
   
 </div>
 
